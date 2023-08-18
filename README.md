@@ -3,13 +3,13 @@
 ##### • Tool Used:- SQL , MySQL
 ##### • DB Schema – Sakila Database
 
-## Description :-
+## Description :
 ##### • MovieOnRent is a chain of movie rental stores operating in a certain country
 ##### • It has vast DVD collection of movies and Blue Ray disc formats.
 ##### • For my analysis , I have used 5 tables - film , actor , category , inventory and rental
 ##### • Analyzing what kind of movies are often rented , which Genre it belongs too.
 
-## Approach :-
+## Approach :
 ##### • Using SQL Commands and Queries to create and manipulate the Sakila database on MySQL RDBMS.
 ##### • Use SQL to extract relevant information from the data, such as the movies , Rating , Categories and actors.
 ##### • Analyzed the datasets using SQL to identify patterns and trends in the data.
